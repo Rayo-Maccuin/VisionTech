@@ -24,7 +24,7 @@ function Footer() {
             <ul className="footer-links">
               <li>
                 <Link to="/" className="footer-link">
-                  Inicio
+                  inicio
                 </Link>
               </li>
               <li>
